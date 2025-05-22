@@ -35,7 +35,6 @@ The **Educase Assignment** is a responsive web application developed as part of 
 
 * **Frontend**: React.js, Tailwind CSS
 * **Routing**: React Router DOM
-* 
 
 ---
 
